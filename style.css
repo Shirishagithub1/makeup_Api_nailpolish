@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg);
+}
+
+#head1{
+    background-image: url(https://img.freepik.com/premium-photo/abstract-background-images-wallpaper-ai-generated_643360-22641.jpg);
+height: 300px;
+background-repeat: none;
+
+}
+
+#btn-1{
+    font-weight: bold;
+    padding: 10px;
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L2pvYjE0NDgtYmFja2dyb3VuZC0wNGEteF8xLmpwZw.jpg);
+
+}
+#btn-2{
+    font-weight: bold;
+    padding: 10px;
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L2pvYjE0NDgtYmFja2dyb3VuZC0wNGEteF8xLmpwZw.jpg);
+}
+#head1 > h2{
+    font-weight: bold;
+}
+.good{
+    background-color: green;
+    width: 170px;
+    border: 1px solid black;
+    border-radius: 20px;
+padding: 5px;
+}
+.bad{
+    background-color: red;
+    width: 170px;
+    border: 1px solid black;
+    border-radius: 20px;
+padding: 5px;
+}
